@@ -1,2 +1,2 @@
 # counter-app
-Simple JavaScript Project
+Simple JavaScript Project.
